@@ -1,5 +1,5 @@
 # jpg2heic
-Convert jpg/JPG images to HEIC/HEIF.
+Bulk convert jpg images to HEIC/HEIF with metadata in Bash.
 
 ### Preinstall
 
@@ -35,3 +35,9 @@ for x in *.JPG; do
     fi  
 done
 ```
+
+#### Blog
+https://mikebeach.org/2019/09/02/bulk-convert-jpg-to-heic-with-metadata
+
+### License
+MIT License
