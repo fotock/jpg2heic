@@ -8,7 +8,7 @@ brew install exiftool
 brew install imagemagick
 ```
 
-### script
+### Script
 ```bash
 #! /bin/bash
 
